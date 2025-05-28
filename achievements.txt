@@ -1,0 +1,7 @@
+all_bankrupt
+balance_0
+balance_3m
+bankrupt_1_company
+bankrupt_2_companies
+bankrupt_3_companies
+bankrupt_4_companies
