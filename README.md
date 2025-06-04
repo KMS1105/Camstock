@@ -35,5 +35,5 @@
 ## ⚙️ 개발 환경 (Development Environment)
 
 - Python 3.12.0  
-- Tkinter (GUI 라이브러리)  
+- Tkinter 
 ---
